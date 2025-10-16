@@ -116,7 +116,15 @@ const CourseHighlights: React.FC<CourseHighlightsProps> = ({ onOpenModal }) => {
           </div>
         </div>
 
+<<<<<<< HEAD
         {/* === Separator band (like your reference) === */}
+=======
+<<<<<<< HEAD
+        {/* === Separator band (like your reference) === */}
+=======
+        {/* === Separator band (like your reference) ===
+>>>>>>> 5dae3c3 (commit message)
+>>>>>>> a5b3929 (cmmit msg)
         <div className="my-10 sm:my-14">
           <div
             className="h-12 w-full rounded-2xl
@@ -124,7 +132,15 @@ const CourseHighlights: React.FC<CourseHighlightsProps> = ({ onOpenModal }) => {
                        border border-white/70
                        shadow-[inset_0_1px_0_rgba(255,255,255,0.9),0_10px_24px_rgba(15,23,42,0.06)]"
           />
+<<<<<<< HEAD
         </div>
+=======
+<<<<<<< HEAD
+        </div>
+=======
+        </div> */}
+>>>>>>> 5dae3c3 (commit message)
+>>>>>>> a5b3929 (cmmit msg)
 
         {/* === Why Choose Section === */}
         <div className="text-center mb-12 pt-2">
