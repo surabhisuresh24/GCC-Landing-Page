@@ -4,6 +4,7 @@ const HiringPartners: React.FC = () => {
   // Partner list (ensure these .webp files exist in /public/images)
   const partnerFiles = [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> a5b3929 (cmmit msg)
@@ -35,6 +36,8 @@ const HiringPartners: React.FC = () => {
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> f597c60 (new commit)
     "DELOITTE",
     "EY",
     "KPMG",
@@ -63,8 +66,11 @@ const HiringPartners: React.FC = () => {
     "AUDI",
     "HSBC",
     "NIVEA",
+<<<<<<< HEAD
 >>>>>>> 5dae3c3 (commit message)
 >>>>>>> a5b3929 (cmmit msg)
+=======
+>>>>>>> f597c60 (new commit)
   ];
 
   const partners = partnerFiles.map((name) => ({
