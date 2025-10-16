@@ -3,41 +3,6 @@ import React, { useEffect, useRef } from "react";
 const HiringPartners: React.FC = () => {
   // Partner list (ensure these .webp files exist in /public/images)
   const partnerFiles = [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> a5b3929 (cmmit msg)
-    "Deloitte",
-    "EY",
-    "KPMG",
-    "PwC",
-    "Accenture",
-    "IBM",
-    "Capgemini",
-    "JP Morgan",
-    "Goldman Sachs",
-    "Morgan Stanley",
-    "Citi",
-    "Bank of America",
-    "Infosys",
-    "TCS",
-    "Wipro",
-    "Amazon",
-    "HCL",
-    "Tech Mahindra",
-    "Cognizant",
-    "HDFC Bank",
-    "ICICI Bank",
-    "IDBI Bank",
-    "Federal Bank",
-    "Hero",
-    "Tata",
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> f597c60 (new commit)
     "DELOITTE",
     "EY",
     "KPMG",
@@ -66,11 +31,6 @@ const HiringPartners: React.FC = () => {
     "AUDI",
     "HSBC",
     "NIVEA",
-<<<<<<< HEAD
->>>>>>> 5dae3c3 (commit message)
->>>>>>> a5b3929 (cmmit msg)
-=======
->>>>>>> f597c60 (new commit)
   ];
 
   const partners = partnerFiles.map((name) => ({
